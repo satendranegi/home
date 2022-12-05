@@ -65,7 +65,7 @@ const about = {
 //      i.e ["repository-1", "repo-2"]
 const repos = {
   show: true,
-  heading: "Recent Projects",
+  heading: "Recent Open Sourced Projects",
   gitHubUsername: "satendranegi", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
